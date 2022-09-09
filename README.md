@@ -1,11 +1,20 @@
 # wiki-api
 
-The goal of this project is to mimic a a wikipedia page using Node.js and Express library. Where users can post contents 
+## Introduction
 
-# To instal dependencies
+The goal of this project is to mimic a a wikipedia page using Node.js and Express library. Where users can post contents
 
-use npm install
+## Technologies
+
+- HTML
+- JavaScript
+- Express.js
+- Node.js
+
+# To install dependencies
+
+- run npm install
 
 # To start
 
-use npm start
+- run npm start
